@@ -1,0 +1,49 @@
+The system is: Darwin - 15.6.0 - x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e6f41/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e6f41.dir/build.make CMakeFiles/cmTC_e6f41.dir/build
+Building C object CMakeFiles/cmTC_e6f41.dir/testCCompiler.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_e6f41.dir/testCCompiler.c.o   -c "/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_e6f41
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e6f41.dir/link.txt --verbose=1
+/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e6f41.dir/testCCompiler.c.o  -o cmTC_e6f41  
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b391a/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b391a.dir/build.make CMakeFiles/cmTC_b391a.dir/build
+Building C object CMakeFiles/cmTC_b391a.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_b391a.dir/CMakeCCompilerABI.c.o   -c /Applications/CMake.app/Contents/share/cmake-3.5/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_b391a
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b391a.dir/link.txt --verbose=1
+/usr/bin/cc    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b391a.dir/CMakeCCompilerABI.c.o  -o cmTC_b391a   
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e8002/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e8002.dir/build.make CMakeFiles/cmTC_e8002.dir/build
+Building CXX object CMakeFiles/cmTC_e8002.dir/testCXXCompiler.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_e8002.dir/testCXXCompiler.cxx.o -c "/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+Linking CXX executable cmTC_e8002
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e8002.dir/link.txt --verbose=1
+/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e8002.dir/testCXXCompiler.cxx.o  -o cmTC_e8002  
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ecc6a/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ecc6a.dir/build.make CMakeFiles/cmTC_ecc6a.dir/build
+Building CXX object CMakeFiles/cmTC_ecc6a.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++      -o CMakeFiles/cmTC_ecc6a.dir/CMakeCXXCompilerABI.cpp.o -c /Applications/CMake.app/Contents/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_ecc6a
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ecc6a.dir/link.txt --verbose=1
+/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ecc6a.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ecc6a   
+
+

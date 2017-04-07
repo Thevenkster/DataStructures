@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/algorithm.hpp
+algorithm
+-
+
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/test.hpp
+
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/vector-binary.cpp
+algorithm
+-
+chrono
+-
+iostream
+-
+numeric
+-
+random
+-
+vector
+-
+algorithm.hpp
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/algorithm.hpp
+test.hpp
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/test.hpp
+

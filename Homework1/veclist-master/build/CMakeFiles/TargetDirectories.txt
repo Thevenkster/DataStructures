@@ -1,0 +1,8 @@
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/test-vector-binary.dir
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/edit_cache.dir
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/rebuild_cache.dir
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/test-vector-sort.dir
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/test-list.dir
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/test-set.dir
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/test-vector.dir
+/Users/karthikvenkat/Desktop/Programming/Data Structures/veclist-master/build/CMakeFiles/test.dir
